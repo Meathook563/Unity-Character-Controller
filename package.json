@@ -1,0 +1,19 @@
+{
+  "name": "com.sam.basiccharactercontroller",
+  "version": "0.1.0",
+  "displayName": "Basic Character Controller",
+  "description": "This is a basic character controller using the new input system",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "Sam",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.0.2"
+  }
+}
